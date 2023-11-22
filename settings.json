@@ -1,0 +1,95 @@
+{
+  "editor.fontFamily": "Hack Nerd Font , Arial, Helvetica, sans-serif",
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorWidth": 2,
+  "explorer.confirmDelete": false,
+  "editor.minimap.renderCharacters": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "debug.console.fontSize": 14,
+  "explorer.confirmDragAndDrop": false,
+  "editor.fontLigatures": true,
+  "files.exclude": {
+    "**/.history": true,
+    "**/.next": true,
+    "**/.nuxt": true
+  },
+  "terminal.integrated.lineHeight": 1.3,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.suggestSelection": "first",
+
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "[html]": {
+    "editor.matchBrackets": "never"
+  },
+  "[css]": {
+    "editor.matchBrackets": "never"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "html.format.wrapLineLength": 130,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "scss.lint.unknownAtRules": "ignore",
+  "css.lint.unknownAtRules": "ignore",
+  "editor.cursorBlinking": "expand",
+  "editor.inlayHints.enabled": "on",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.lineHeight": 18,
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "none",
+  "editor.wordWrap": "bounded",
+  "git.openRepositoryInParentFolders": "never",
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": false,
+  "css.lint.unknownProperties": "ignore",
+  "workbench.editor.centeredLayoutFixedWidth": true,
+  "editor.renderWhitespace": "none",
+  "scss.lint.unknownProperties": "ignore",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.env.osx": {},
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    ".*Class",
+    ".*ClassName"
+  ],
+  "editor.cursorSmoothCaretAnimation": "on",
+  "window.newWindowDimensions": "maximized",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.linkedEditing": true,
+  "workbench.colorCustomizations": {
+    "editor.linkedEditingBackground": "#ffffff00",
+    "selection.background": "#828bb828"
+  },
+  "[markdown]": {
+    "editor.wordWrap": "bounded"
+  },
+  "editor.letterSpacing": 0.1,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.letterSpacing": 0.5,
+  "editor.fontSize": 14,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "githubPullRequests.createOnPublishBranch": "never",
+  "window.zoomLevel": -1
+}
